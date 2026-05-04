@@ -1,0 +1,6 @@
+{
+  "name": "agent-mela-convertidor-de-monedas-con-tas-morkvx0u",
+  "version": "1.0.0",
+  "description": "Proyecto de Mela [Gen12]: convertidor de monedas con tasas en tiempo real",
+  "main": "index.js"
+}
